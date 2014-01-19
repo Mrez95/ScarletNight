@@ -53,7 +53,7 @@ public class Mage extends Characters
     private boolean movementDirection = true;
     private boolean moveUp = false; 
 
-    // Attacks
+    // Attacks 
     private boolean attack = false;
     private static boolean attackDuration;
     private boolean abilityH = false;
@@ -616,7 +616,7 @@ public class Mage extends Characters
     {
         return dead;
     }
-    // The method resets all varibles to default
+    // The method resets all varibles back to default
     public void reset(int getX, int getY,boolean getDirection)
     {
         movementDirection = getDirection;
