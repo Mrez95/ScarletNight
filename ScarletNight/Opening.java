@@ -2,7 +2,7 @@
  * 
  * 
  * ScarletNight
- * Created by Kelvin Luo, Eddie Zhang, and Joshua Tusi
+ * Created by Kelvin Luo, Eddie Zhang
  * Submitted on June 11, 2013
  * As final project
  * 

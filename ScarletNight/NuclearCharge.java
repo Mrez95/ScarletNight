@@ -2,7 +2,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class FireBall here.
  * 
- * @author Joshua Tsai
+ * @author Eddie Zhang
  * @version March, 2013
  */
 public class NuclearCharge extends Weapon
