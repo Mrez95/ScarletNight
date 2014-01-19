@@ -1,3 +1,7 @@
-# Eddie's first time trying GitHub
+# Scarlet Night 
 
-GIT IS AMAZING!
+5 playable characters
+3 unique maps
+custom weapon upgrades
+personal voiceovers
+
