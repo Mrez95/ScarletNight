@@ -13,7 +13,7 @@ Developed a side-scrolling SSB arena multiplayer game in Java as a part of a par
 Usage
 ------------
 
-To preview simply download the ZIP through git and import the project to your favourite Android IDE. Run it and play!
+To preview simply download the ZIP through git and import the entire project to Greenfoot IDE. Compile, run it and play! 
 
 License
 -------------
