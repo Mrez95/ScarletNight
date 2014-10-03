@@ -20,3 +20,4 @@ License
 Copyright (c) 2014 Eddie Zhang.
 
 _________________________
+** Stay tuned for a web application version of this project soon. Currently under developement **
