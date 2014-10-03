@@ -1,6 +1,8 @@
 Scarlet Night
 ===========
 
+SSB style 2-player platformer fighting game.
+
 ![alt='http://bazhanga.com/images/portfolio/scarletNight/Scarlet                  Night4.png"'](http://bazhanga.com/images/portfolio/scarletNight/ScarletNight4.png)
 
 Features
